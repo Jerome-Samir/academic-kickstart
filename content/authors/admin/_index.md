@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Theoretical physicist turned immunologist and bioinformatician
 
-interests:
-- Immunology
-- Bioinformatics
+# interests:
+# - Immunology
+# - Bioinformatics
 
 education:
   courses:
