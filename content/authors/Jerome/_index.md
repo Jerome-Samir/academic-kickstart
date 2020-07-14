@@ -60,3 +60,5 @@ user_groups:
 - "Grad Students"
 
 ---
+
+Jerome is currently in his second year of a PhD working to apply machine learning and artificial intelligence techniques to single cell RNA sequencing data from adaptive immune cells specific to various diseases. Having studied Bioinformatics, he comes from a largely computational background, and worked under Associate Professor Fabio Luciani during his Honours and the following year as a research assistant, performing single cell data analysis and pipeline/application development. Jerome is now focusing on leveraging large T and B cell multi-omics datasets to explore antigen specificity and cross-reactivity, and predict phenotype and cellular function.
