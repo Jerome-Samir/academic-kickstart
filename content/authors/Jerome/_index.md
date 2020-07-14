@@ -25,8 +25,8 @@ interests: []
 education:
   courses:
   - course: Bachelor of Bioinformatics (Hons)
-  institution: University of New South Wales
-  year: 2014
+    institution: University of New South Wales
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
