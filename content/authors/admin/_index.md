@@ -20,9 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Theoretical physicist turned immunologist and bioinformatician
 
-# interests:
-# - Immunology
-# - Bioinformatics
+interests: []
 
 education:
   courses:
@@ -40,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:luciani@unsw.edu.au'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FabioItAus
