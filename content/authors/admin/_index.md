@@ -73,12 +73,12 @@ PhD Scholarships are available for international candidates. Summer Research Sch
 
 ### Diseases we are studying
 
-Our lab foucssed on T cell responses in the context of when these cells works well (Influenza and Dengue virus), when they are not supposed to r(espond but they do (Coeliac disease), and when they have been engineered to do what we want (CAR T cell therapies)
-It appears a very broad raneg of ineterst, but the reality is that we are simply trying to understand what are the mechanisms that control such a wide outcome for these very important cells of our immuen system!
+Our lab focused on T cell responses in the context of when these cells works well (Influenza and Dengue virus), when they are not supposed to respond but they do (Coeliac disease), and when they have been engineered to do what we want (CAR T cell therapies)
+It appears a very broad range of interest, but the reality is that we are simply trying to understand what are the mechanisms that control such a wide outcome for these very important cells of our immune system!
 
-### Tehcnologies we use to achieve these goals.
+### Technologies we use to achieve these goals.
 Single cell genomics
 
 Bioinformatics
 
-Expeirmental Immunology
+Experimental Immunology

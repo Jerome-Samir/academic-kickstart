@@ -41,7 +41,7 @@ social:
 #   link: https://twitter.com/FabioItAus
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/scholar?q=author:%22Samir%20Jerome%22
+  link: https://scholar.google.co.uk/citations?user=1FyN7LQAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/Jerome-Samir
